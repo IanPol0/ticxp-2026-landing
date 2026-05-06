@@ -466,5 +466,41 @@
     "colorFade": "",
     "primary": "",
     "secondary": ""
+  },
+  {
+    "id": 27,
+    "slug": "litnoote",
+    "title": "Litnoote",
+    "students": "José B, Tania L, Leon A",
+    "slogan": "Editor colaborativo que genera quizzes automáticos para potenciar el estudio.",
+    "brief": "Editor colaborativo que genera quizzes automáticos para potenciar el estudio.",
+    "description": "Litnoote es un editor de documentos compartidos que convierte lo que escribís en quizzes automáticos para ayudarte a estudiar mejor. Combina colaboración en tiempo real con aprendizaje activo, haciendo que no solo escribas, sino que también entiendas y recuerdes el contenido.",
+    "type": "Aplicación Web",
+    "tags": "Aplicación Web",
+    "tutors": "Julian Zylber",
+    "link": "",
+    "logo": "",
+    "color": "#",
+    "colorFade": "",
+    "primary": "",
+    "secondary": ""
+  },
+  {
+    "id": 28,
+    "slug": "edukiosk",
+    "title": "Edukiosk",
+    "students": "Facundo N, Rocco A, Santiago R",
+    "slogan": "Plataforma estudiantil para compra-venta de libros e intercambio de resúmenes.",
+    "brief": "Plataforma estudiantil para compra-venta de libros e intercambio de resúmenes.",
+    "description": "Nuestro proyecto consta en un sitio web en el que los alumnos puedan comprar y vender libros y publicar resúmenes. Simplifica el momento a principio de año en el que hay que comprar libros y permite crear una comunidad que se ayuda entre estudiantes puntuando y editando resúmenes.",
+    "type": "Aplicación Web",
+    "tags": "Aplicación Web",
+    "tutors": "Ivo Degange, Lucía Parrondo, Paula Sapochnik",
+    "link": "",
+    "logo": "",
+    "color": "#",
+    "colorFade": "",
+    "primary": "",
+    "secondary": ""
   }
 ]
