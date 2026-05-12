@@ -94,9 +94,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
             grid.appendChild(card);
 
-            // Accordion toggle
+            // Accordion toggle — open by default
             const btn = card.querySelector('.desc-toggle-btn');
             const wrapper = card.querySelector('.desc-wrapper');
+
+            // Initialize as open
+            wrapper.classList.add('open');
+            btn.classList.add('open');
+            btn.setAttribute('aria-expanded', 'true');
+            btn.querySelector('.arrow').textContent = '▲';
+            btn.firstChild.textContent = 'Ocultar descripción ';
+
             btn.addEventListener('click', () => {
                 const isOpen = wrapper.classList.toggle('open');
                 btn.classList.toggle('open', isOpen);
