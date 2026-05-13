@@ -96,7 +96,7 @@
     "students": "Guido J, Matias T, Eitan F, Martin D",
     "slogan": "Interfaz web para la teleoperación y control remoto de robots en tiempo real.",
     "brief": "Interfaz web para la teleoperación y control remoto de robots en tiempo real.",
-    "description": "El joystick virtual es una interfaz web que permite controlar un robot de forma remota en tiempo real, sin necesidad de utilizar software propietario del fabricante. A través de una conexión de baja latencia, el usuario puede enviar comandos de movimiento mientras visualiza el entorno mediante streaming de video en vivo.",
+    "description": "Gemm es un proyecto enfocado en investigar, experimentar y documentar el uso del robot humanoide Unitree G1 EDU, creando una base de conocimiento abierta para que futuros equipos no tengan que empezar desde cero. Combinamos robótica, simulación e IA para transformar tecnología de frontera en herramientas accesibles, reproducibles y aplicables a problemas reales.",
     "type": "Aplicación Web",
     "tags": "Aplicación Web, Hardware",
     "tutors": "Ivo Degange, Jerónimo Sanchez Peruga, Maximiliano Torreblanca",
